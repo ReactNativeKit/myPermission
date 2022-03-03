@@ -1,5 +1,5 @@
 # React Native Permission
-## This repository is about the app based on React Native.
+## This repository is about the app based on React Native which uses React Native Permissions.
 
 ### Screenshots:
 
